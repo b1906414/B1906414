@@ -1,4 +1,4 @@
-### B1906414-Đặng Văn Trọng 👋
+### B1906414-Đặng Văn Trọng  👋
 
 <!--
 **b1906414/B1906414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
