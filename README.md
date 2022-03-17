@@ -97,7 +97,7 @@
     <div id="pan">
         
     </div>
-    <div id="can">
+    <div >
         <img src="https://image-us.24h.com.vn/upload/4-2018/images/2018-12-27/1545902085-524-bang-gia-2019-honda-air-blade-moi-nhat-hien-nay-ab2-1545879441-width660height432.jpg" height="85%" width="85%">
     </div>
     <div id="san">
