@@ -91,23 +91,18 @@
     </div>
     <br>
     <div>
-        <img src="https://anh.24h.com.vn/upload/4-2017/images/2017-11-17/1510912965-55-giap-tet-xe-may-dua-nhau-khoe-sac-moi-tai-thi-truong-viet-mau-moi1-1510887118-width660height411.jpg" height="30%" width="30%">
+        <img src="https://anh.24h.com.vn/upload/4-2017/images/2017-11-17/1510912965-55-giap-tet-xe-may-dua-nhau-khoe-sac-moi-tai-thi-truong-viet-mau-moi1-1510887118-width660height411.jpg" height="85%" width="85%">
     </div>
     <br>
     <div id="pan">
-        Điện toán đám mây ( Cloud Computing ) hay còn gọi là điện toán máy chủ ảo cung cấp các công nghệ, 
-        tài nguyên máy tính liên kết với mạng Internet. Với mô hình điện toán đám mây, người dùng sẽ được 
-        tiếp cận các tài nguyên từ công nghệ, năng lượng điện toán, lưu trữ cơ sở dữ liệu đến từ những nhà 
-        cung cấp dịch vụ đám mây.
+        
     </div>
     <div id="can">
-        <img src="https://tuandc.com/wp-content/uploads/2017/04/hosting-la-gi.jpg"height="85%" width="85%">
+        <img src="https://vcdn1-vnexpress.vnecdn.net/2021/12/16/airblade-1639662207-1639662219-6380-1639662474.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9klebEWrrRFCTRvQVZ_xwg" height="85%" width="85%">
     </div>
     <div id="san">
-        Hosting hay Web hosting là không gian lưu trữ được chia nhỏ từ server giúp bạn đăng tải dữ liệu,
-        xuất bản website, hoặc ứng dụng trên internet. Khi sử dụng hệ thống hosting, bạn đặt lên server 
-        (hay còn gọi là máy chủ) của nhà cung cấp các tệp dữ liệu cần thiết để website hay ứng dụng online 
-        của bạn chạy được. Hãy cùng Mắt Bão tìm hiểu thêm các thông tin cần thiết khác về hosting là gì nhé!
+        
+    </div> 
    
 </body>
 </html>
