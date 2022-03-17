@@ -82,7 +82,7 @@
 </head>
 <body style="background-color:lightblue;">
     <div class="dau">
-        <a> Web store <a>
+        <a> Web honda <a>
     </div>
     <div class="cod-pages">
         <a href="">HOME |</a>
@@ -91,7 +91,7 @@
     </div>
     <br>
     <div>
-        <img src="https://goviettel.com/wp-content/uploads/2018/01/cac-dich-vu-luu-tru-du-lieu-online-pho-bien-2-1024x856.jpg" height="30%" width="30%">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.24h.com.vn%2Fxe-may-xe-dap%2Fgiap-tet-xe-may-dua-nhau-khoe-sac-moi-tai-thi-truong-viet-c748a918537.html&psig=AOvVaw2ATcIB8-JL145XXB925nXD&ust=1647619371627000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiy5cvCzfYCFQAAAAAdAAAAABAD" height="30%" width="30%">
     </div>
     <br>
     <div id="pan">
